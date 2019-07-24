@@ -7,6 +7,14 @@
   slack_channel: councilmatic
   description: We make the Oakland City Council meetings easily accessible to the citizens of Oakland. Using our site citizens can learn when are the upcoming city council meetings, view the agenda, put the meeting on your calendar, and send an electronic comment to the Council. Plus you can see videos of past meetings.
 -
+  name: Drinking Water Quality
+  image: water_300x237.png
+  link: https://openoakland.github.io/clean-water/
+  leader: Aaron Hans
+  slack_id: UA0S0PNSZ
+  slack_channel: ca-water-challenge
+  description: We work with the non profit activist organization the Community Water Center to create tools to help them address water quality issues in low income communities
+-
   name: OakCrime
   image: oakcrime_300x233.png
   link: http://oakcrime.org
